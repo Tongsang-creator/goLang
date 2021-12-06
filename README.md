@@ -1,1 +1,1 @@
-# goLang
+# for learning goLang only
